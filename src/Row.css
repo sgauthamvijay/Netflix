@@ -1,0 +1,60 @@
+
+
+
+.row_posters{
+    
+    width:100%;
+   padding: 20px;
+     
+}
+
+  
+
+
+
+.row_poster{
+
+ 
+ height: 100px;
+ margin-right: 10px;
+ margin-top: 10px;
+ transition: 450ms;
+ width: 200px;
+ border-radius: 8px;
+ 
+ 
+
+ 
+ 
+ 
+}
+
+.row_poster:hover
+   
+{
+ transform: scale(1.08);
+}
+
+
+
+    
+    
+    
+
+    
+    
+
+
+h2{
+    color:rgb(236, 230, 230);
+    text-align: center;
+}
+
+
+    
+ h1{
+        text-align: center;
+        color: red;
+        
+    }
+   
